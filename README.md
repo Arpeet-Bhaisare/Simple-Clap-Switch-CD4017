@@ -61,6 +61,8 @@ Whenever a clap is detected:
 
 # 🔌 Circuit Diagram
 
+The complete circuit diagram used in this project is shown below.
+
 <p align="center">
 <img src="Circuit_Diagram/Circuit_Diagram.png" width="700">
 </p>
