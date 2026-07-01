@@ -1,7 +1,7 @@
 # 👏 Simple Clap Switch Circuit using CD4017
 
 <p align="center">
-  <img src="Circuit_Diagram/Circuit_Diagram.png" alt="Circuit Diagram" width="700">
+  <img src="Circuit_Diagram/Circuit_Diagram.png" width="700">
 </p>
 
 A simple clap-operated switch built using the **CD4017 Decade Counter IC**. The circuit detects a clap using a condenser microphone and toggles an electrical load (such as a lamp) ON and OFF through a relay.
