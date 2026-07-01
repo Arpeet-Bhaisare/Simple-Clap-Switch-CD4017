@@ -1,1 +1,3 @@
-Project images for the Simple Clap Switch Circuit using CD4017.
+# Images
+
+This folder contains images related to the Simple Clap Switch Circuit project.
