@@ -1,1 +1,3 @@
-Circuit diagrams for the Simple Clap Switch Circuit using CD4017.
+# Circuit Diagram
+
+This folder contains the complete circuit diagram of the Simple Clap Switch Circuit using the CD4017 Decade Counter IC.
