@@ -45,7 +45,13 @@ Whenever a clap is detected:
 - Resistors
 - LED
 - Power Supply
+---
+  ## 🖼 Components
 
+<p align="center">
+  <img src="Images/CD4017%20IC.PNG" alt="CD4017 IC" width="300">
+  <img src="Images/Relay.jpg" alt="Relay Module" width="300">
+</p>
 ---
 
 # ⚙ Working Principle
