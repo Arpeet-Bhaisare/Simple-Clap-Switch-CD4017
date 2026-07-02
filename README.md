@@ -101,7 +101,6 @@ Simple-Clap-Switch-CD4017
 The complete project report is available in the **Report** folder.
 
 📄 **Project Report:** [Minor_Project_Report.pdf](Report/Minor_Project_Report.pdf)
----
 
 # 📱 Applications
 
