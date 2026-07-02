@@ -141,6 +141,10 @@ Group 10
 
 ---
 
+⭐ If you found this project useful, consider giving this repository a Star.
+
+---
+
 # 📄 License
 
 This repository is licensed under the MIT License.
